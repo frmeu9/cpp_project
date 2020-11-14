@@ -31,21 +31,21 @@ int main()
 
     switch (nbSiblings)
     {
-    case 0:
-        cout << "You are a unique child" << endl;
-        break;
+        case 0:
+            cout << "You are a unique child" << endl;
+            break;
 
-    case 1:
-        cout << "You have 1 sibling" << endl;
-        break;
+        case 1:
+            cout << "You have 1 sibling" << endl;
+            break;
 
-    case 2:
-        cout << "You have 2 siblings" << endl;
-        break;
+        case 2:
+            cout << "You have 2 siblings" << endl;
+            break;
 
-    case 3:
-        cout << "You have a big family" << endl;
-        break;
+        case 3:
+            cout << "You have a big family" << endl;
+            break;
     }
 
 

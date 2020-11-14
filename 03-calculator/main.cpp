@@ -7,12 +7,12 @@ using namespace std;
 int main()
 {
     cout << "What is the value of pi?" << endl;
-    double valueOfPi(0.0); //On crée une case mémoire pour stocker unnombre réel
-    cin >> valueOfPi; //Et on remplit cette case avec ce qu'écritl'utilisateur
+    double valueOfPi(0.0); //On crÃ©e une case mÃ©moire pour stocker unnombre rÃ©el
+    cin >> valueOfPi; //Et on remplit cette case avec ce qu'Ã©critl'utilisateur
     cin.ignore();
     cout << "What is your name?" << endl;
-    string userName; //On crée une case mémoire pour contenir une chaine de caractères
-    getline(cin, userName); //On remplit cette case avec toute la ligne que l'utilisateur a écrit
+    string userName; //On crÃ©e une case mÃ©moire pour contenir une chaine de caractÃ¨res
+    getline(cin, userName); //On remplit cette case avec toute la ligne que l'utilisateur a Ã©crit
 
     cout << "Your name is " << userName << " and pi value is " << valueOfPi << "." << endl;
 
@@ -20,8 +20,8 @@ int main()
     double a;
     cin >> a;
     cout << "What is the value of b?" << endl;
-    double b; //On crée une case mémoire pour stocker unnombre réel
-    cin >> b; //Et on remplit cette case avec ce qu'écritl'utilisateur
+    double b; //On crÃ©e une case mÃ©moire pour stocker unnombre rÃ©el
+    cin >> b; //Et on remplit cette case avec ce qu'Ã©critl'utilisateur
     cout << "a is : " << a << " and b is : " << b << endl;
     int result;
     result = (a*b+a*a+b*b)*(a/b);

@@ -3,12 +3,12 @@ using namespace std;
 
 int main()
 {
-    int ageUser(23); //Une variable pour contenir l'âge de l'utilisateur
-    int& ageRef(ageUser); //Et une référence sur la variable 'ageUser'
+    int ageUser(23); //Une variable pour contenir l'ï¿½ge de l'utilisateur
+    int& ageRef(ageUser); //Et une rï¿½fï¿½rence sur la variable 'ageUser'
 
-    //On peut utiliser à partir d'ici
+    //On peut utiliser ï¿½ partir d'ici
     //'ageUSer' ou 'ageRef' indistinctement
-    //Puisque ce sont deux étiquettes de la même case en mémoire
+    //Puisque ce sont deux ï¿½tiquettes de la mï¿½me case en mï¿½moire
 
     cout << "Age de l'utilisateur: " << ageUser << endl;
     cout << "Age de l'utilisateur (par la reference): " << ageRef << endl;
@@ -21,7 +21,7 @@ int main()
 
     cout << "Nom: " << userName << endl;
 
-    // On peut déclarer une variable sans lui donner de valeur
+    // On peut dï¿½clarer une variable sans lui donner de valeur
     int yearsAtSchool;
 
     return 0;
