@@ -20,7 +20,7 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="cours02_variables" targetName="cours02_variables" />
+      <config projectName="02_variables" targetName="02_variables" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -29,14 +29,54 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="687873e0-d34b-49e8-afc1-ce024297410a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../01-helloworld/01-helloworld.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-helloworld/01-helloworld.depend" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-helloworld/01-helloworld.layout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-helloworld/bin/Debug/01-helloworld.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-helloworld/bin/Debug/helloworld.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-helloworld/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-helloworld/obj/Debug/main.o" beforeDir="false" />
+    <list default="true" id="9a7b41a3-735a-4b5d-a1fb-edec2dd5c62c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/01_hello_world.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/01_hello_world.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/01_hello_world.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/01_hello_world.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/01_hello_world.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/01_hello_world.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/01_hello_world.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/01_hello_world.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/01_hello_world.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/01_hello_world.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../01-hello_world/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cours02-variables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cours02_variables.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cours02_variables.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cours02_variables.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cours02_variables.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cours02_variables.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cours02_variables.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cours02_variables.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cours02_variables.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cours02_variables.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cours02_variables.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cours02_variables.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cours02_variables.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +90,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1kGR0gbDxksmNW5Fpl1e7taTcCD" />
+  <component name="ProjectId" id="1kGUhBA1v4dVlJ0rqIZhRFR5NUM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -63,12 +103,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="02_variables" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="02_variables" TARGET_NAME="02_variables" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="02_variables" RUN_TARGET_NAME="02_variables">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cours02_variables" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cours02_variables" TARGET_NAME="cours02_variables" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cours02_variables" RUN_TARGET_NAME="cours02_variables">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -82,12 +122,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="687873e0-d34b-49e8-afc1-ce024297410a" name="Default Changelist" comment="" />
-      <created>1605324720199</created>
+      <changelist id="9a7b41a3-735a-4b5d-a1fb-edec2dd5c62c" name="Default Changelist" comment="" />
+      <created>1605326538403</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605324720199</updated>
-      <workItem from="1605324721789" duration="37000" />
+      <updated>1605326538403</updated>
+      <workItem from="1605326539739" duration="19000" />
     </task>
     <servers />
   </component>
@@ -106,21 +146,21 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1605324758551">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1605326558364">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605324758550" />
-    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1605324758550">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605326558364" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1605326558363">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605324758550" />
-    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1605324758550">
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605326558363" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1605326558363">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605324758550" />
-    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1605324758550">
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605326558363" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1605326558363">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605324758550" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605326558363" />
   </component>
 </project>

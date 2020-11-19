@@ -1,0 +1,3 @@
+C:/Users/user418/Documents/Personnel/cpp_project/05-functions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user418/Documents/Personnel/cpp_project/05-functions/cmake-build-debug/CMakeFiles/05_functions.dir
+C:/Users/user418/Documents/Personnel/cpp_project/05-functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

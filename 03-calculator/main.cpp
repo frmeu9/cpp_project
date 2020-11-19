@@ -4,8 +4,7 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
     cout << "What is the value of pi?" << endl;
     double valueOfPi(0.0); //On crée une case mémoire pour stocker unnombre réel
     cin >> valueOfPi; //Et on remplit cette case avec ce qu'écritl'utilisateur
@@ -24,14 +23,16 @@ int main()
     cin >> b; //Et on remplit cette case avec ce qu'écritl'utilisateur
     cout << "a is : " << a << " and b is : " << b << endl;
     int result;
-    result = (a*b+a*a+b*b)*(a/b);
+    result = (a * b + a * a + b * b) * (a / b);
     cout << "Operation (a*b +a*a+b*b)*(a/b)" << endl;
     cout << "Result is : " << result << endl;
 
     string const carModelSerie("JTDKDTB35H");
     int startingNumber(10);
     cout << "Starting number: " << startingNumber << endl;
-    ++startingNumber;
+    ++startingNumber;  //increment of 1
+    cout << "Incrementing previous number: " << startingNumber << endl;
+    startingNumber += startingNumber;  // increment of the value of the variable
     cout << "Incrementing previous number: " << startingNumber << endl;
     cout << "a^b is " << pow(a, b) << endl;
 
