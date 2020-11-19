@@ -169,6 +169,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\05_functions.dir\build.make CMakeFiles/05_functions.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+someFunctions.obj: someFunctions.cpp.obj
+
+.PHONY : someFunctions.obj
+
+# target to build an object file
+someFunctions.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05_functions.dir\build.make CMakeFiles/05_functions.dir/someFunctions.cpp.obj
+.PHONY : someFunctions.cpp.obj
+
+someFunctions.i: someFunctions.cpp.i
+
+.PHONY : someFunctions.i
+
+# target to preprocess a source file
+someFunctions.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05_functions.dir\build.make CMakeFiles/05_functions.dir/someFunctions.cpp.i
+.PHONY : someFunctions.cpp.i
+
+someFunctions.s: someFunctions.cpp.s
+
+.PHONY : someFunctions.s
+
+# target to generate assembly for a file
+someFunctions.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05_functions.dir\build.make CMakeFiles/05_functions.dir/someFunctions.cpp.s
+.PHONY : someFunctions.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -181,6 +208,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... someFunctions.obj
+	@echo ... someFunctions.i
+	@echo ... someFunctions.s
 .PHONY : help
 
 

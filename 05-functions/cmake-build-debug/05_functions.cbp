@@ -83,6 +83,12 @@
 		<Unit filename="C:/Users/user418/Documents/Personnel/cpp_project/05-functions/main.cpp">
 			<Option target="05_functions"/>
 		</Unit>
+		<Unit filename="C:/Users/user418/Documents/Personnel/cpp_project/05-functions/someFunctions.cpp">
+			<Option target="05_functions"/>
+		</Unit>
+		<Unit filename="C:/Users/user418/Documents/Personnel/cpp_project/05-functions/someFunctions.h">
+			<Option target="05_functions"/>
+		</Unit>
 		<Unit filename="C:/Users/user418/Documents/Personnel/cpp_project/05-functions/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

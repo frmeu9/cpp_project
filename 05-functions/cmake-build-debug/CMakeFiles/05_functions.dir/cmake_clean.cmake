@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "05_functions.exe.manifest"
   "05_functions.pdb"
   "CMakeFiles/05_functions.dir/main.cpp.obj"
+  "CMakeFiles/05_functions.dir/someFunctions.cpp.obj"
   "lib05_functions.dll.a"
 )
 
