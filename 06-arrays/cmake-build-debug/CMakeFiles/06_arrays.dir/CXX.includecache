@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user418/Documents/Personnel/cpp_project/06-arrays/calculate_mean.h
+vector
+-
+
+C:/Users/user418/Documents/Personnel/cpp_project/06-arrays/main.cpp
+iostream
+-
+vector
+-
+calculate_mean.h
+C:/Users/user418/Documents/Personnel/cpp_project/06-arrays/calculate_mean.h
+
