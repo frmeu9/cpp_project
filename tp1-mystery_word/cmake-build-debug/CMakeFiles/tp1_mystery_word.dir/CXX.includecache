@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user418/Documents/Personnel/cpp_project/tp1-mystery_word/compareString.h
+iostream
+-
+string
+-
+
+C:/Users/user418/Documents/Personnel/cpp_project/tp1-mystery_word/main.cpp
+algorithm
+-
+iostream
+-
+string
+-
+cstring
+-
+compareString.h
+C:/Users/user418/Documents/Personnel/cpp_project/tp1-mystery_word/compareString.h
+
