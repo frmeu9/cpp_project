@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/user418/Documents/Personnel/cpp_project/tp1-mystery_word
+# Install script for directory: C:/Users/Francoune/Desktop/CPP-Projects/openclassroom-cpp/tp1-mystery_word
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/user418/Documents/Personnel/cpp_project/tp1-mystery_word/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Francoune/Desktop/CPP-Projects/openclassroom-cpp/tp1-mystery_word/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

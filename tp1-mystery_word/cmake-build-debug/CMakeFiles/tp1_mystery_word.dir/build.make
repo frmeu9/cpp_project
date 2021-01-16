@@ -53,19 +53,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f
+RM = "C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word
+CMAKE_SOURCE_DIR = C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/tp1_mystery_word.dir/depend.make
@@ -78,29 +78,29 @@ include CMakeFiles/tp1_mystery_word.dir/flags.make
 
 CMakeFiles/tp1_mystery_word.dir/main.cpp.obj: CMakeFiles/tp1_mystery_word.dir/flags.make
 CMakeFiles/tp1_mystery_word.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tp1_mystery_word.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tp1_mystery_word.dir\main.cpp.obj -c C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tp1_mystery_word.dir/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tp1_mystery_word.dir\main.cpp.obj -c C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word\main.cpp
 
 CMakeFiles/tp1_mystery_word.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tp1_mystery_word.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word\main.cpp > CMakeFiles\tp1_mystery_word.dir\main.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word\main.cpp > CMakeFiles\tp1_mystery_word.dir\main.cpp.i
 
 CMakeFiles/tp1_mystery_word.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tp1_mystery_word.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word\main.cpp -o CMakeFiles\tp1_mystery_word.dir\main.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word\main.cpp -o CMakeFiles\tp1_mystery_word.dir\main.cpp.s
 
 CMakeFiles/tp1_mystery_word.dir/compareString.cpp.obj: CMakeFiles/tp1_mystery_word.dir/flags.make
 CMakeFiles/tp1_mystery_word.dir/compareString.cpp.obj: ../compareString.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tp1_mystery_word.dir/compareString.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tp1_mystery_word.dir\compareString.cpp.obj -c C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word\compareString.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tp1_mystery_word.dir/compareString.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tp1_mystery_word.dir\compareString.cpp.obj -c C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word\compareString.cpp
 
 CMakeFiles/tp1_mystery_word.dir/compareString.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tp1_mystery_word.dir/compareString.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word\compareString.cpp > CMakeFiles\tp1_mystery_word.dir\compareString.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word\compareString.cpp > CMakeFiles\tp1_mystery_word.dir\compareString.cpp.i
 
 CMakeFiles/tp1_mystery_word.dir/compareString.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tp1_mystery_word.dir/compareString.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word\compareString.cpp -o CMakeFiles\tp1_mystery_word.dir\compareString.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word\compareString.cpp -o CMakeFiles\tp1_mystery_word.dir\compareString.cpp.s
 
 # Object files for target tp1_mystery_word
 tp1_mystery_word_OBJECTS = \
@@ -116,7 +116,7 @@ tp1_mystery_word.exe: CMakeFiles/tp1_mystery_word.dir/build.make
 tp1_mystery_word.exe: CMakeFiles/tp1_mystery_word.dir/linklibs.rsp
 tp1_mystery_word.exe: CMakeFiles/tp1_mystery_word.dir/objects1.rsp
 tp1_mystery_word.exe: CMakeFiles/tp1_mystery_word.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable tp1_mystery_word.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable tp1_mystery_word.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\tp1_mystery_word.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -129,6 +129,6 @@ CMakeFiles/tp1_mystery_word.dir/clean:
 .PHONY : CMakeFiles/tp1_mystery_word.dir/clean
 
 CMakeFiles/tp1_mystery_word.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word\cmake-build-debug C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word\cmake-build-debug C:\Users\user418\Documents\Personnel\cpp_project\tp1-mystery_word\cmake-build-debug\CMakeFiles\tp1_mystery_word.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word\cmake-build-debug C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word\cmake-build-debug C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp1-mystery_word\cmake-build-debug\CMakeFiles\tp1_mystery_word.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tp1_mystery_word.dir/depend
 

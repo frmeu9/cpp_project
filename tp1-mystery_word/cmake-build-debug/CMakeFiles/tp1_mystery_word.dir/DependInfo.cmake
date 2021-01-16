@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/user418/Documents/Personnel/cpp_project/tp1-mystery_word/compareString.cpp" "C:/Users/user418/Documents/Personnel/cpp_project/tp1-mystery_word/cmake-build-debug/CMakeFiles/tp1_mystery_word.dir/compareString.cpp.obj"
-  "C:/Users/user418/Documents/Personnel/cpp_project/tp1-mystery_word/main.cpp" "C:/Users/user418/Documents/Personnel/cpp_project/tp1-mystery_word/cmake-build-debug/CMakeFiles/tp1_mystery_word.dir/main.cpp.obj"
+  "C:/Users/Francoune/Desktop/CPP-Projects/openclassroom-cpp/tp1-mystery_word/compareString.cpp" "C:/Users/Francoune/Desktop/CPP-Projects/openclassroom-cpp/tp1-mystery_word/cmake-build-debug/CMakeFiles/tp1_mystery_word.dir/compareString.cpp.obj"
+  "C:/Users/Francoune/Desktop/CPP-Projects/openclassroom-cpp/tp1-mystery_word/main.cpp" "C:/Users/Francoune/Desktop/CPP-Projects/openclassroom-cpp/tp1-mystery_word/cmake-build-debug/CMakeFiles/tp1_mystery_word.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
