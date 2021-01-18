@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Francoune/Desktop/CPP-Projects/openclassroom-cpp/10-operator_overload/Duration.h
+iostream
+-
+
+C:/Users/Francoune/Desktop/CPP-Projects/openclassroom-cpp/10-operator_overload/main.cpp
+iostream
+-
+Duration.h
+C:/Users/Francoune/Desktop/CPP-Projects/openclassroom-cpp/10-operator_overload/Duration.h
+

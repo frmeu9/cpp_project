@@ -1,0 +1,3 @@
+C:/Users/Francoune/Desktop/CPP-Projects/openclassroom-cpp/tp2-class_zfraction/cmake-build-debug/CMakeFiles/tp2_class_zfraction.dir
+C:/Users/Francoune/Desktop/CPP-Projects/openclassroom-cpp/tp2-class_zfraction/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Francoune/Desktop/CPP-Projects/openclassroom-cpp/tp2-class_zfraction/cmake-build-debug/CMakeFiles/rebuild_cache.dir

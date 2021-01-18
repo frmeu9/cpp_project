@@ -1,0 +1,8 @@
+//
+// Created by Francoune on 2021-01-17.
+//
+
+#ifndef TP2_CLASS_ZFRACTION_ZFRACTION_H
+#define TP2_CLASS_ZFRACTION_ZFRACTION_H
+
+#endif //TP2_CLASS_ZFRACTION_ZFRACTION_H

@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Francoune\Desktop\CPP-Projects\openclassroom-cpp\tp2-class_zfraction
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Francoune/Desktop/CPP-Projects/openclassroom-cpp/tp2-class_zfraction/cmake-build-debug
